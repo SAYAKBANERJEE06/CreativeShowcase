@@ -1,0 +1,8 @@
+
+{
+  "name": "Creative Showcase",
+  "description": "A premium platform for digital artists to showcase their portfolio, complete with AI-generated artistic critiques and a sleek masonry-style gallery.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
