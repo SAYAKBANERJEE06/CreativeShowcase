@@ -24,7 +24,7 @@ Creative Showcase is a professional-grade digital portfolio platform designed fo
 - **Analysis Engine**: Google Generative AI SDK (`@google/genai`)
 - **Storage**: Browser LocalStorage API
 
-## 🛠️ Installation & Setup
+##  Installation & Setup
 
 ### Prerequisites
 
